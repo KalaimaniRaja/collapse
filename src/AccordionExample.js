@@ -24,13 +24,13 @@ Company 1
       </h3>
       <ul>
       <li>
-      Industry - 
+      Industry - Elliot Avenue
       </li>
       <li>
-      state - 
+      state - Washington
       </li>
       <li>
-      address - 
+      address - 2425 Folkways Blvd #128, Lincoln, NE, 68521, US 
       </li>
       </ul>
     </div>
@@ -199,13 +199,13 @@ Company 2
       </h3>
       <ul>
       <li>
-      Industry - 
+      Industry - Elliot Avenue
       </li>
       <li>
-      state - 
+      state - Washington
       </li>
       <li>
-      address - 
+      address - 2425 Folkways Blvd #128, Lincoln, NE, 68521, US 
       </li>
       </ul>
     </div>
